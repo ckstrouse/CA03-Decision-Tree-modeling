@@ -141,3 +141,6 @@ The final model achieves strong accuracy, maintains interpretability, and reflec
 The process was controlled, reproducible, and analytically sound.
 
 This is a complete modeling pipeline rather than a one off experiment.
+
+
+Authors Christopher Strouse & Jasmine Cheng
